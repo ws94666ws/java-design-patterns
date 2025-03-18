@@ -3420,6 +3420,34 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "smile-ab",
+      "name": "smile-ab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/202159894?v=4",
+      "profile": "https://github.com/smile-ab",
+      "contributions": [
+        "translation",
+        "code"
+      ]
+    },
+    {
+      "login": "Francisco-G-P",
+      "name": "Francisco-G-P",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186766789?v=4",
+      "profile": "https://github.com/Francisco-G-P",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Duartegdm",
+      "name": "Gabriel Duarte",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137895372?v=4",
+      "profile": "https://github.com/Duartegdm",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 6,
